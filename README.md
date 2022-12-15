@@ -2,7 +2,7 @@
 
 It will help you to know whether a word or a string is palindrome or not.
 
-## Curious? [Take a look]()
+## Curious? [Take a look](https://priyanshupaul08.github.io/Palindrome_Checker/)
 
 ## What is a Palindrome Number?
 
